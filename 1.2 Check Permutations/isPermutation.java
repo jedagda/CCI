@@ -1,5 +1,5 @@
 public class isPermutation{
-
+    //
     public static boolean isPermutation(String A, String B) {
       if (A.length() != B.length())
         return false;
