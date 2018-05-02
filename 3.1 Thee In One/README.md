@@ -5,8 +5,8 @@ Three in One: Describe how you could use a single array to implement three stack
 ## IDEAL 
  <table style="width:100%">
   <tr>
-    <td><B>I: Implement three stacks using a single array </B></td>
-   <td></td>
+    <td><B>I:</B></td>
+   <td> Implement three stacks using a single array </td>
     <tr>
     <td><B>D:</B></td>
     <td>How can you use three stacks using a single array.</td>
